@@ -2,6 +2,7 @@
 A decentralized polling application that functions as the foundation for a revolutionary approach to democratic participation
 
 # Decentralized Democracy App
+https://linktr.ee/newdemocracyapp
 
 ## Our Commitment to Accessibility
 

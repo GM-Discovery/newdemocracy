@@ -26,21 +26,13 @@
 
 1. **Jesus Christ (c. 4 BCE-30 CE)** - Transformed teaching through parables, lived example, and radical love. His approach made complex spiritual truths accessible through stories connected to everyday life, demonstrated knowledge as inseparable from action, and established love as the foundation of learning. His teaching method invited listeners to discover meaning rather than imposing doctrine, and his pedagogical approach prioritized transformation of the whole person.
 
-2. **Muhammad (c. 570-632 CE)** - Created holistic educational methods integrating spiritual, moral, and practical knowledge. His approach emphasized character development through mentorship, unified multiple knowledge domains through revelatory framework, and established community-based learning. His teaching style balanced oral transmission with written preservation and emphasized education as obligatory for all believers regardless of background.
-
-3. **Moses (c. 1391-1271 BCE)** - Pioneered covenant-based education linking knowledge with ethical action. His approach established a dialogical learning tradition through question and response, integrated legal, moral, and spiritual dimensions, and created multi-generational transmission systems. His teaching emphasized justice as foundational to genuine knowledge and education as liberation from oppression.
-
 4. **Socrates (470-399 BCE)** - Pioneered questioning method that built critical thinking rather than transmitting information. His approach centered on drawing out knowledge from within students rather than imposing it from without, demonstrating education as fundamentally dialogical.
 
 5. **Confucius (551-479 BCE)** - Created an educational philosophy integrating moral, social, political, and cultural dimensions. His approach balanced intellectual development with character formation and emphasized education's role in creating social harmony.
 
-6. **Buddha (c. 563-483 BCE)** - Developed experiential learning approaches where understanding emerges through practice rather than doctrine. His teaching emphasized direct experience over mere acceptance of authority and connected knowledge with ethical action.
-
 7. **Maria Montessori (1870-1952)** - Revolutionized education through scientific observation of children's natural learning processes. Her method respected children's autonomy, created prepared environments for self-directed learning, and recognized development follows predictable patterns requiring appropriate materials at each stage.
 
 8. **John Dewey (1859-1952)** - Integrated education with democracy and experiential learning. His approach connected education to real community problems, positioned schools as miniature societies, and viewed education as continuous reconstruction of experience.
-
-9. **Paulo Freire (1921-1997)** - Developed critical pedagogy that empowered marginalized communities through education. His approach rejected the "banking model" of education, positioned students as co-creators of knowledge, and connected learning to liberation from oppression.
 
 10. **bell hooks (1952-2021)** - Created engaged pedagogy integrating feminist and anti-racist perspectives. Her approach emphasized education as practice of freedom, honored students' lived experiences, and created transgressive learning spaces that challenged dominant paradigms.
 

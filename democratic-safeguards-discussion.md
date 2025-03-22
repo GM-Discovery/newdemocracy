@@ -23,11 +23,13 @@ The model would eliminate taxes and redirect "above-caps" resources to fund publ
 
 ### Example Distribution Model
 
-In a hypothetical community of 100 people with $100,000:
+In a hypothetical community of 100 people with $150,000:
 - 10 people choose not to work: Receive basic needs through vouchers 
 - 10 people choose meaningful but non-essential work: $500 each
 - 30 people perform essential services: $1,000 each
 - 50 people perform intensive/investment-heavy work: $2,000 each
+
+The remainder is given to the public good, civil defense, or whatever fund.
 
 Essential services include utilities, food production, and housing construction. Higher-compensated roles require significant training investment (doctors, engineers, etc.).
 
